@@ -1,0 +1,66 @@
+#u8873,#u8877,#u8904,#u9392,#u10037,#u10039,#u8906,#u8908
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7875-5
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u8859
+{
+	position: relative;
+	background: transparent url("../images/created%20by%20yutyo%20studyo-created%20by.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u8859:hover
+{
+	background: transparent url("../images/created%20by%20yutyo%20studyo-katman%201.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u8859.MuseLinkActive
+{
+	background: transparent url("../images/created%20by%20yutyo%20studyo-katman%201.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u9329
+{
+	position: relative;
+	background: transparent url("../images/minecraft%20pe%20t%c3%bcrkiye-katman%206.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u9329:hover
+{
+	background: transparent url("../images/minecraft%20pe%20t%c3%bcrkiye.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u9329.MuseLinkActive
+{
+	background: transparent url("../images/minecraft%20pe%20t%c3%bcrkiye.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u8374
+{
+	position: relative;
+	background: transparent url("../images/sponsored%20by%20rabbit-bout-sponsored%20by.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u8374:hover
+{
+	background: transparent url("../images/sponsored%20by%20rabbit-bout.png") no-repeat left top;
+	background-size: contain;
+}
+
